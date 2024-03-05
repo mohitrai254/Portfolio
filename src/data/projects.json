@@ -2,25 +2,33 @@
   {
     "title": "Pizza Order",
     "imageSrc": "projects/pizza.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Order a pizza",
+    "skills": ["React", "HTML", "CSS", "Tailwind CSS", "Redux", "React-router"],
+    "demo": "https://pizzaforyou.netlify.app/",
+    "source": "https://github.com/mohitrai254/React/tree/main/pizza"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Travel",
+    "imageSrc": "projects/travel.png",
+    "description": "Create checklist for travel",
+    "skills": ["React", "HTML", "CSS", "Redux", "React-router"],
+    "demo": "https://packandtravel.netlify.app/",
+    "source": "https://github.com/mohitrai254/React/tree/main/travel"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Rock Paper Scissor",
+    "imageSrc": "projects/rps.jpg",
+    "description": "Rock Paper Scissor",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://rockpaperscissormohit.netlify.app",
+    "source": "https://github.com/mohitrai254/JavaScript/tree/main/Rock%20Paper%20Scissor"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "Rock Paper Scissor",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://tictactoemohitrai.netlify.app",
+    "source": "https://github.com/mohitrai254/JavaScript/tree/main/Tic%20Tac%20Toe"
   }
 ]

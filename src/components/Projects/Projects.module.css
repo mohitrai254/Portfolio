@@ -5,6 +5,9 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+  /* flex-wrap: wrap; */
+  /* display: flex;
+  flex-direction: row; */
 }
 
 .title {
