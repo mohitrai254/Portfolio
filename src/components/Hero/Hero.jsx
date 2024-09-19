@@ -11,7 +11,7 @@ export const Hero = () => {
           A good learner and regular practitioner of exploring new things.
         </p>
         <a
-          href="https://drive.google.com/file/d/1gmZBs7107IS7Czi3Aj9psIPOkR8vhUWr/view"
+          href="https://drive.google.com/file/d/15l6d-Kbat-7zUi1mNdtn6uLf-ILh2QjD/view?usp=drivesdk"
           className={styles.contactBtn}
         >
           Resume
